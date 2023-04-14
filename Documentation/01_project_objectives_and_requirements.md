@@ -1,4 +1,4 @@
-# Step 1: Define Project Objectives and Requirements
+# Define Project Objectives and Requirements
 
 ## Project Goal
 Identify the best vintage shops in London for finding valuable deals.

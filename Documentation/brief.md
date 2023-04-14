@@ -19,7 +19,7 @@
 6. Model_Deployment
 7. Documentation
 
-### Input Variables
+### Input Variables (pseudocode ideas)
 - Shop_location: Geographic coordinates or postal code
 - Shop_rating: Customer reviews or rating from external sources
 - Shop_affluence: Average income, housing prices, or neighbourhood wealth index
