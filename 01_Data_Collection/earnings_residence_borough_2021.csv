@@ -1,0 +1,50 @@
+Code,Area,Pay_2021
+00AA,City of London,#
+00AB,Barking and Dagenham,523.5
+00AC,Barnet,574.9
+00AD,Bexley,584.8
+00AE,Brent,553.1
+00AF,Bromley,653
+00AG,Camden,694.2
+00AH,Croydon,613.3
+00AJ,Ealing,574.9
+00AK,Enfield,507.9
+00AL,Greenwich,618.9
+00AM,Hackney,575.1
+00AN,Hammersmith and Fulham,714.5
+00AP,Haringey,542.6
+00AQ,Harrow,577.5
+00AR,Havering,584.6
+00AS,Hillingdon,586
+00AT,Hounslow,564.6
+00AU,Islington,665.6
+00AW,Kensington and Chelsea,767
+00AX,Kingston upon Thames,667.8
+00AY,Lambeth,673.6
+00AZ,Lewisham,574.9
+00BA,Merton,586.3
+00BB,Newham,567.4
+00BC,Redbridge,581.9
+00BD,Richmond upon Thames,699.5
+00BE,Southwark,631.9
+00BF,Sutton,565.8
+00BG,Tower Hamlets,680.3
+00BH,Waltham Forest,624.7
+00BJ,Wandsworth,746.7
+00BK,Westminster,771.6
+,,
+A,North East,463
+B,North West,479.1
+D,Yorkshire and The Humber,468.3
+E,East Midlands,481
+F,West Midlands,487.5
+G,East,519
+H,London,613.3
+J,South East,543
+K,South West,469.9
+924,Wales,469.4
+923,Scotland,505.1
+922,Northern Ireland,469.4
+,,
+941,England and Wales,506.9
+926,United Kingdom,504.4
