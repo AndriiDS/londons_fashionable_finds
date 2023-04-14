@@ -17,3 +17,6 @@ build/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# api key
+api_key.py
