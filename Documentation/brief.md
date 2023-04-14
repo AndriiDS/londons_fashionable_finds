@@ -10,6 +10,8 @@
 
 ### Project Folders
 1. Data_Collection
+    - Google Places API
+    - London Datastore
 2. Data_Preprocessing
 3. Feature_Engineering
 4. Model_Training
@@ -19,8 +21,8 @@
 
 ### Input Variables
 - Shop_location: Geographic coordinates or postal code
-- Shop_affluence: Average income, housing prices, or neighbourhood wealth index
 - Shop_rating: Customer reviews or rating from external sources
+- Shop_affluence: Average income, housing prices, or neighbourhood wealth index
 - Shop_size: Total floor area, number of items for sale, or item turnover rate
 - Transport_accessibility: Proximity to public transportation, walkability score
 - Shop_type: Charity shop, independent vintage boutique, or chain store

@@ -70,10 +70,10 @@ LanaTS Clothing,"55 Baker St, London",51.5187355,-0.1567089,0.0,London
 Goldsmith Vintage,"176 Portobello Rd, London",51.5156751,-0.2046511,4.3,London
 The House of Retro,"232 Portobello Rd, London",51.51735009999999,-0.20601,4.2,London
 OOTO LONDON,"Claridge House, 32 Davies St, London",51.512012,-0.1477862,0.0,London
-Retro Clothing Exchange,"28 Pembridge Rd, London",51.50983189999999,-0.1971427,2.9,London
 Pepper Tree London,"Unit1, 253 Portobello Rd, London",51.517531,-0.2065744,4.1,London
 Eddie Wailes Studio,"13 - 25 Church St, London",51.52421589999999,-0.1688751,0.0,London
 Antique Clothing Shop,"282 Portobello Rd, London",51.5192918,-0.2074124,5.0,London
+Retro Clothing Exchange,"28 Pembridge Rd, London",51.50983189999999,-0.1971427,2.9,London
 Generation Vintage LDN,"242 Portobello Rd, London",51.517774,-0.2062906,3.0,London
 Oliver Vintage,"Unit 7, Portobello Green Arcade, 281 Portobello Rd, London",51.5185621,-0.2073518,5.0,London
 Pepper Tree London Notting Hill,"31 Pembridge Rd, Notting Hill Gate, London",51.5102901,-0.1974706,4.3,London
@@ -111,6 +111,7 @@ pillowHeat,"Vans Store, 47 Carnaby St, London",51.5128206,-0.1386783,4.9,London
 Timewise Vintage Watches,"117 Portobello Rd, London",51.51381240000001,-0.2034662,0.0,London
 The Vintage Showroom,"By Appointment) UNIT 20, Buspace Studios, Conlan St, London",51.525636,-0.210764,3.7,London
 Pip Hackett Millinery,"65 Alfred Rd, London",51.5211277,-0.1962841,0.0,London
+Muirshin Durkin,"67 Golborne Rd, London",51.5221205,-0.2079296,3.4,London
 Found And Vision,"318 Portobello Rd, London",51.5213081,-0.2099342,4.5,London
 Beyond Retro Soho,"19-21 Argyll St, London",51.5150107,-0.1411872,4.3,London
 The Vintage Collection,"Arch 59, Camden Stables Market, London",51.5420455,-0.1469688,5.0,London
@@ -140,7 +141,6 @@ Eddie Wailes Studio,"13 - 25 Church St, London",51.52421589999999,-0.1688751,0.0
 Antique Clothing Shop,"282 Portobello Rd, London",51.5192918,-0.2074124,5.0,London
 Generation Vintage LDN,"242 Portobello Rd, London",51.517774,-0.2062906,3.0,London
 Oliver Vintage,"Unit 7, Portobello Green Arcade, 281 Portobello Rd, London",51.5185621,-0.2073518,5.0,London
-Retro Clothing Exchange,"28 Pembridge Rd, London",51.50983189999999,-0.1971427,2.9,London
 A Dandy In Aspic,"Market, 748-749, North Yard Stables, Chalk Farm Rd, London",51.5425015,-0.1490213,3.4,London
 Peekaboo Vintage Marketplace,"149a Abbey Rd, London",51.540942,-0.1910264,5.0,London
 DreamingLion Vintage,"Unit D28, Horse Tunnel, The Stables Market, Chalk Farm Rd, London",51.5420455,-0.1469688,4.5,London
@@ -152,6 +152,7 @@ Portobello Vintage Market,"Greater, London",51.51872830000001,-0.2073275,4.0,Lon
 Retro Man,"28 Pembridge Rd, London",51.5098437,-0.1971446,3.4,London
 American Vintage,"185 Westbourne Grove, London",51.5145847,-0.1981431,3.8,London
 VOUTIQUE LTD,"31 Claremont Rd, London",51.5332266,-0.2069859,0.0,London
+Retro Clothing Exchange,"28 Pembridge Rd, London",51.50983189999999,-0.1971427,2.9,London
 Open for Vintage,"7, 10 Cavendish Square, Chandos St, London",51.5169544,-0.1442532,5.0,London
 vintage clothing,London,51.52362549999999,-0.2067168,5.0,London
 Vintage Stockroom,"13 - 25 Church St, London",51.524127,-0.1688328,0.0,London
@@ -448,7 +449,6 @@ Chelsea Vintage Couture,"Office - Showroom, BY APPOINTMENT ONLY, Sloane Ave, Lon
 American Vintage,"35 Marylebone High St, London",51.5205091,-0.151705,3.4,London
 Grays Antique Market,"58 Davies St, London",51.5137017,-0.1486451,4.1,London
 De L'Époque,"8 Cheval Pl, London",51.49900359999999,-0.1667621,5.0,London
-ANTIQUES,London,51.5122569,-0.1546661,4.8,London
 The Vintage House,"42 Old Compton St, London",51.5131282,-0.1316389,4.1,London
 Butterworth Christopher,"71 Pimlico Rd, London",51.490362,-0.1535057,3.7,London
 Beyond Retro Soho,"19-21 Argyll St, London",51.5150107,-0.1411872,4.3,London
@@ -497,13 +497,13 @@ Dukes Cupboard Limited,"14 Ingestre Pl, London",51.5132008,-0.1357614,4.3,London
 pillowHeat,"Vans Store, 47 Carnaby St, London",51.5128206,-0.1386783,4.9,London
 Laura von Behr Vintage,"Canonbury Yard, Building 1, 5A, 190 New N Rd, London",51.5377403,-0.0908213,5.0,London
 "Camden Passage, Islington","1 Camden Psge, London",51.5346814,-0.1039732,4.3,London
-Hartex,"Unit 9, Gabriels Wharf, 56 Upper Ground, London",51.5079685,-0.1103793,4.7,London
 American Vintage,"35 Marylebone High St, London",51.5205091,-0.151705,3.4,London
 Grays Antique Market,"58 Davies St, London",51.5137017,-0.1486451,4.1,London
-SOMLO - London & OMEGA Vintage,"35-36 Burlington Arcade, London",51.509631,-0.14092,4.5,London
 American Vintage,"Stable St, London",51.535973,-0.126182,3.4,London
+SOMLO - London & OMEGA Vintage,"35-36 Burlington Arcade, London",51.509631,-0.14092,4.5,London
 Collectif Camden Market,"36, Camden's Stables Market, Chalk Farm Rd, London",51.54222439999999,-0.1469208,4.7,London
 Vintage Clothing,"53 Chalk Farm Rd, London",51.5430371,-0.1501184,0.0,London
+Hartex,"Unit 9, Gabriels Wharf, 56 Upper Ground, London",51.5079685,-0.1103793,4.7,London
 Vivien of Holloway,"294 Holloway Rd, London",51.55451430000001,-0.1142869,4.4,London
 Camden Retro Signs,"8A, The Stables Market, PADDOCK LANE, Chalk Farm Rd, London",51.5420455,-0.1469688,5.0,London
 ANTIQUES,London,51.5122569,-0.1546661,4.8,London
@@ -547,11 +547,11 @@ Vintage Concept Store,"658 Holloway Rd, London",51.56258039999999,-0.1263506,0.0
 Leos boutique uk clothing popup stall,"Pierrepoint Arcade, Camden Psge, London",51.5355171,-0.1032303,5.0,London
 House of Modern Vintage,"Wightman Rd, London",51.5793317,-0.1041108,4.9,London
 Camden Thrift Store,"51 Chalk Farm Rd, London",51.543116,-0.1494112,4.5,London
+Gonnermann,"408-410 Archway Rd, London",51.5766188,-0.1441633,4.9,London
 Aladdin's Vintage Furniture & Cafe,"1 Hazellville Rd, London",51.5695455,-0.1243871,4.7,London
 Past Caring London,"54 Essex Rd, London",51.5377097,-0.0997412,4.6,London
 BijouxB Vintage Jewellery - Islington,"1-6 Colinsdale Estate, Camden Walk, London",51.5354176,-0.1031492,3.0,London
 D & A Binder - Antique Shop Cabinets & Bespoke Shopfittings for Hire or Purchase,"101 Holloway Rd, London",51.548067,-0.1066036,4.9,London
-Gonnermann,"408-410 Archway Rd, London",51.5766188,-0.1441633,4.9,London
 Vintage Luggage,"18 Delancey St, London",51.5368475,-0.1426188,4.2,London
 Little Paris Store,"39 Park Rd, London",51.580974,-0.125502,4.5,London
 Episode,"26 Chalk Farm Rd, London",51.542509,-0.146978,0.0,London
@@ -905,11 +905,11 @@ PEZZE,"17 Amhurst Terrace, London",51.5547934,-0.06726979999999999,5.0,London
 REFASHED I Vintage & Second-Hand Clothes,"13 Mentmore Terrace, London",51.54109889999999,-0.0573418,5.0,London
 Rekindled,"212 Well St, London",51.5443061,-0.046649,5.0,London
 House of Vintage Broadway Market,"2b Ada St, London",51.5358132,-0.06177329999999999,5.0,London
-Reign Vintage,"166-168 Stoke Newington High St, London",51.5614461,-0.07358250000000001,4.3,London
 Magpie Vintage,"3 Camden Psge, London",51.5345635,-0.1043199,4.7,London
 Retold Vintage,"Stephen House, 1 Darnley Rd, London",51.5437886,-0.05438399999999999,5.0,London
 Forgotten Tales Vintage,"9a Cazenove Rd, London",51.5642296,-0.0723471,0.0,London
 The Pattern,"167 Mare St, London",51.5399792,-0.0560996,5.0,London
+Reign Vintage,"166-168 Stoke Newington High St, London",51.5614461,-0.07358250000000001,4.3,London
 Cats In Orbit,"54 Eade Rd, London",51.5740932,-0.09484800000000002,1.0,London
 Paper Dress Vintage,"352a Mare St, London",51.547349,-0.05470179999999999,4.6,London
 Retro Arena,"32 Mildmay Grove S, London",51.5485321,-0.0853227,5.0,London
@@ -1832,15 +1832,17 @@ Age UK Camden Boutique,"53 Leather Ln, London",51.5205863,-0.1096902,4.0,London
 Marie Curie Charity Shop Belsize Park,"169 Haverstock Hill, London",51.54994500000001,-0.1644777,2.6,London
 HelpAge International,"6 Tavistock Pl, London",51.524545,-0.127988,5.0,London
 FARA Charity Shop - Belsize Park,"204 Haverstock Hill, London",51.550934,-0.165011,3.9,London
+Oxfam Bookshop,"Bloomsbury Plaza, 12 Bloomsbury St, London",51.51745,-0.1271185,4.4,London
 Oxfam,"376 Holloway Rd, London",51.55646369999999,-0.1170316,3.1,London
 Cancer Research UK,"374 Holloway Rd, London",51.5563684,-0.1168922,4.5,London
 Charity Retail Association,"356 Holloway Rd, London",51.5557613,-0.116045,4.4,London
-Oxfam Bookshop,"Bloomsbury Plaza, 12 Bloomsbury St, London",51.51745,-0.1271185,4.4,London
+Boutique By Shelter,"158 Regent's Park Rd, London",51.5414883,-0.1567765,5.0,London
 Boutique by Shelter (Hampstead Heath),"57 S End Rd, London",51.5556188,-0.1668822,4.6,London
 Octavia Foundation Hampstead,"33 S End Rd, London",51.5549356,-0.1661452,3.1,London
-Boutique By Shelter,"158 Regent's Park Rd, London",51.5414883,-0.1567765,5.0,London
 Rock 'n' Roll Rescue,"96 Parkway, London",51.53740310000001,-0.1456209,4.2,London
 Consigned Sealed Delivered (CSD) | Marylebone Lane Store,"70-72 Marylebone Ln, London",51.5165902,-0.1503821,4.3,London
+Blue17 Vintage clothing,"162 Ground floor & basement, London",51.5512295,-0.1101328,4.7,London
+Coram Children's Legal Centre,"41 Brunswick Square, London",51.5254181,-0.1210258,4.8,London
 Shelter Charity Shop (Holloway Road),"436A Holloway Rd, London",51.557454,-0.1185004,4.4,London
 Traid Camden,"154 Camden High St, London",51.5385937,-0.1421116,3.7,London
 Oxfam,"376 Holloway Rd, London",51.55646369999999,-0.1170316,3.1,London
@@ -1943,11 +1945,11 @@ Traid,"2 Acre Ln, London",51.4612282,-0.1162417,4.1,London
 TRAID Peckham,"14-16 Rye Ln, London",51.4726379,-0.0698983,4.2,London
 Alex TLC Charity Shop Walworth Road,"378 Walworth Rd, London",51.4847113,-0.09394129999999999,4.4,London
 Sense,"329 Walworth Rd, London",51.48654130000001,-0.09458359999999999,3.8,London
-"Shop from Crisis, Camberwell","23a Denmark Hill, London",51.4730327,-0.0929676,4.5,London
+Scope Camberwell,"42 Denmark Hill, London",51.4731357,-0.093329,4.6,London
 Boutique by Shelter (East Dulwich),"102 Grove Vale, London",51.4606764,-0.07549639999999999,4.1,London
 British Heart Foundation,"10 Rye Ln, London",51.4727518,-0.0701779,3.7,London
-Fara Charity Shop - Pimlico,"13A Warwick Way, London",51.4925305,-0.139252,4.4,London
 Save The Children,"36 Clapham High St, London",51.46438000000001,-0.1315249,3.5,London
+Fara Charity Shop - Pimlico,"13A Warwick Way, London",51.4925305,-0.139252,4.4,London
 Salvation Army,"339-341 Walworth Rd, London",51.48621720000001,-0.0943498,3.8,London
 Sense,"43 Rye Ln, London",51.47227849999999,-0.06961579999999999,4.8,London
 "Shop from Crisis, Peckham","160 Rye Ln, London",51.4679045,-0.0672273,4.6,London
@@ -1977,7 +1979,6 @@ Mary's Living & Giving Shop for Save the Children - East Dulwich,"45 Lordship Ln
 The Salvation Army,"1 Tiverton St, London",51.4966531,-0.0990344,0.0,London
 Royal Trinity Hospice - Pimlico Shop,"85 Wilton Rd, London",51.4923322,-0.1401701,3.4,London
 Hospices of Hope - Pimlico,"40 Warwick Way, London",51.4919702,-0.1404995,4.1,London
-Scope Camberwell,"42 Denmark Hill, London",51.4731357,-0.093329,4.6,London
 British Red Cross London 2,"Unit 8, Tower Workshops, 58 Riley Rd, London",51.4988019,-0.07650749999999999,4.1,London
 Boutique by Shelter,"31 The Pavement, London",51.463092,-0.1406652,4.9,London
 Wandsworth Oasis,"45 Old Town, London",51.4640518,-0.1409584,4.6,London
@@ -2327,7 +2328,6 @@ Beyond Retro Dalston,"92-100 Stoke Newington Rd, London",51.5533702,-0.0746013,4
 The East End Jewish Clothing Collection Fund,"Finsbury Park Synagogue, 520 Green Lanes, London",51.5709725,-0.0958658,5.0,London
 British Heart Foundation,"Unit 2, Shopping Centre, 22 Winslade Way, London",51.4462668,-0.0204654,4.1,London
 TRAID Peckham,"14-16 Rye Ln, London",51.4726379,-0.0698983,4.2,London
-Sense,"4 Winslade Way, London",51.4462346,-0.0204883,0.0,London
 Sense,"46 Deptford High St, London",51.4761542,-0.0257246,4.1,London
 Boutique by Shelter (East Dulwich),"102 Grove Vale, London",51.4606764,-0.07549639999999999,4.1,London
 Mary's Living & Giving Shop for Save the Children - East Dulwich,"45 Lordship Ln, London",51.45910629999999,-0.07481349999999999,4.4,London
@@ -2345,8 +2345,9 @@ Mind,"96 Grove Vale, London",51.4609594,-0.075706,3.3,London
 Ald Life Charity Shop,"81-83 Dartmouth Rd, London",51.436317,-0.054945,0.0,London
 Chartwell Cancer Trust shop,"180 Rye Ln, London",51.4674202,-0.0667629,0.0,London
 Vision Foundation - East Dulwich,"124 Lordship Ln, London",51.45616589999999,-0.07629369999999999,0.0,London
-Kaths Place,"We Care . Kath's Place, 50 Friendly St, London",51.4713868,-0.025283,5.0,London
 Human Relief Foundation,"291 New Cross Rd, London",51.47552109999999,-0.0383645,4.8,London
+Sense,"4 Winslade Way, London",51.4462346,-0.0204883,0.0,London
+Kaths Place,"We Care . Kath's Place, 50 Friendly St, London",51.4713868,-0.025283,5.0,London
 Nunhead Salvation Army,"Nunhead Grn, London",51.4655031,-0.058727,4.6,London
 Royal Trinity Hospice - Camberwell shop,"Unit 11, Butterfly Walk, Shopping Centre, Camberwell Green, London",51.4732046,-0.09190500000000001,4.4,London
 The Well Charity Shop,London,51.48149120000001,-0.0257424,4.9,London
@@ -2368,7 +2369,7 @@ Chartwell Cancer Trust shop,"180 Rye Ln, London",51.4674202,-0.0667629,0.0,Londo
 The Well Charity Shop,London,51.48149120000001,-0.0257424,4.9,London
 Mary’s Living and Giving Shop for Save the Children,"90 Bermondsey St, London",51.5009665,-0.08202129999999999,4.3,London
 The Mind Shop - Bermondsey,"246 Southwark Park Rd., London",51.492154,-0.06269659999999999,3.7,London
-Kaths Place,"We Care . Kath's Place, 50 Friendly St, London",51.4713868,-0.025283,5.0,London
+Kaths Place .Community charity shop. Food Pantry . Book Shop Tea room .Coffee shop .Vegan Cafe .Advice & Support Hub,"We Care . Kath's Place, 50 Friendly St, London",51.4713868,-0.025283,5.0,London
 Remar Furniture Store,"243 Southwark Park Rd., London",51.4923807,-0.0629853,3.0,London
 Mary's Living & Giving Shop for Save the Children - East Dulwich,"45 Lordship Ln, London",51.45910629999999,-0.07481349999999999,4.4,London
 British Red Cross London 2,"Unit 8, Tower Workshops, 58 Riley Rd, London",51.4988019,-0.07650749999999999,4.1,London
