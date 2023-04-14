@@ -10,5 +10,5 @@ Now, in a new folder
 
 To-do:
 1. Create the new python document 02_data_preprocessing.py
-2. Joining all the data currently available (the CSV files)
-3. Renaming the columns for better clarity and understanding
+2. Join all the data currently available (the CSV files)
+3. Rename the columns for better clarity and understanding
