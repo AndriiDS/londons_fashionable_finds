@@ -6,3 +6,6 @@ vintage_shops_london.csv
 
 Now, we are in a new folder 
 02_Data_preprocessing
+
+git add .
+git commit -m "01_data_collection complete"
