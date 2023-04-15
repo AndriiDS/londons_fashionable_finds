@@ -20,6 +20,7 @@ Thumbs.db
 
 # api key
 api_key.py
+.env
 
 # notes
 ideas.md
