@@ -38,15 +38,19 @@ merged_data = merged_data.drop(columns=['Unnamed: 0', 'Area', 'Area_earnings', '
 
 print(merged_data.head())
 
-
-IPython.display import display
-
+from IPython.display import display
 
 # Set display options
 pd.set_option('display.max_columns', None)  # Display all columns
 pd.set_option('display.width', 200)         # Set the display width to avoid line wrapping
 pd.set_option('display.max_rows', 10)       # Set the maximum number of rows to display
 
+
+# Remove duplicates based on the 'Shop_Name', 'Address', 'Latitude', and 'Longitude' columns
+merged_data = merged_data.drop_duplicates(subset=['name', 'address', 'latitude', 'longitude'])
+
 display(merged_data)
 
-merged_data.to_csv('02_Data_preprocessing/merged_vintage_shops_data.csv', index=False)
+merged_data.shape # 644 shops
+
+merged_data.to_csv('02_Data_preprocessing/merged_shops_data.csv', index=False)
