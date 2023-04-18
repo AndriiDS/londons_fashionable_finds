@@ -40,3 +40,6 @@ data/
 04_Model/runtime.txt
 04_Model/app.py
 04_Model/templates/
+
+01_Data_Collection/*.json
+
