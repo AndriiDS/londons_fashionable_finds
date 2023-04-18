@@ -18,9 +18,25 @@ build/
 .DS_Store
 Thumbs.db
 
-# api key
+# API key
 api_key.py
 .env
 
-# notes
+# Notes
 ideas.md
+brief.md
+
+# Backup files
+*.bak
+
+# Data files
+data/
+*.csv
+*.json
+*.zip
+
+# Model files
+04_Model/Procfile
+04_Model/runtime.txt
+04_Model/app.py
+04_Model/templates/
