@@ -45,26 +45,23 @@ We welcome contributions from the community. To contribute, please follow these 
 
 Please ensure that your code follows the project's style guidelines and includes tests and documentation as appropriate.
 
-## License
-
-This project is released under the [MIT License](./LICENSE).
-
 
 ## Visualisations
 
 The project includes various visualisations to help understand the data and trends:
 
 ### Distribution of Shops by Boroughs
-![Distribution of Shops by Boroughs](./Documentation/Distribution of Shops by Boroughs.png)
+![Distribution of Shops by Boroughs](./Documentation/Distribution%20of%20Shops%20by%20Boroughs.png)
 
 ### Boxplot of Ratings per Borough
-![Boxplot of Ratings per Borough](./Documentation/Boxplot of Ratings per Borough.png)
+![Boxplot of Ratings per Borough](./Documentation/Boxplot%20of%20Ratings%20per%20Borough.png)
 
 ### Distribution of Ratings
-![Distribution of Ratings](./Documentation/Distribution of Ratings.png)
+![Distribution of Ratings](./Documentation/Distribution%20of%20Ratings.png)
 
 ### Boxplot of Ratings per Price Level
-![Boxplot of Ratings per Price Level](./Documentation/Boxplot of Ratings per Price Level.png)
+![Boxplot of Ratings per Price Level](./Documentation/Boxplot%20of%20Ratings%20per%20Price%20Level.png)
 
 ### Correlation Matrix of Shop Variables
-![Correlation Matrix of Shop Variables](./Documentation/Correlation Matrix of Shop Variables.png)
+![Correlation Matrix of Shop Variables](./Documentation/Correlation%20Matrix%20of%20Shop%20Variables.png)
+
