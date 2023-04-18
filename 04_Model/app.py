@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Load the ranked_shops DataFrame
 # Replace the path with the path to your ranked_shops CSV file
-ranked_shops = pd.read_csv('/Users/andrii/Documents/londons_fashionable_finds/04_Model/ranked_shops.csv')
+ranked_shops = pd.read_csv('./data/ranked_shops.csv')
 
 @app.route('/', methods=['GET', 'POST'])
 def index():

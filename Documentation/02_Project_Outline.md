@@ -74,3 +74,7 @@
 7. Document the project, including the methodology, results, and any challenges faced.
 
 Upon completion, the project's code will be published on GitHub, providing a link for potential employers to review. Additionally, the finished work will be shared on LinkedIn, demonstrating the project's outcome to a broader audience.
+
+
+python app.py
+
