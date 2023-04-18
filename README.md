@@ -2,6 +2,11 @@
 
 This project aims to analyse and visualise the trends and distribution of fashionable clothing stores in London. By leveraging open data sources and machine learning techniques, this project seeks to provide valuable insights for both customers and retailers in the fashion industry.
 
+## Live Demo
+
+You can test and view the ranking at the following link: [London Charity Vintage Shops](https://london-charity-vintage-shops.herokuapp.com/)
+
+
 ## Project Structure
 
 The project is organised into the following directories and files:
@@ -42,4 +47,24 @@ Please ensure that your code follows the project's style guidelines and includes
 
 ## License
 
-This project is released under the [MIT License](LICENSE).
+This project is released under the [MIT License](./LICENSE).
+
+
+## Visualisations
+
+The project includes various visualisations to help understand the data and trends:
+
+### Distribution of Shops by Boroughs
+![Distribution of Shops by Boroughs](./Documentation/Distribution of Shops by Boroughs.png)
+
+### Boxplot of Ratings per Borough
+![Boxplot of Ratings per Borough](./Documentation/Boxplot of Ratings per Borough.png)
+
+### Distribution of Ratings
+![Distribution of Ratings](./Documentation/Distribution of Ratings.png)
+
+### Boxplot of Ratings per Price Level
+![Boxplot of Ratings per Price Level](./Documentation/Boxplot of Ratings per Price Level.png)
+
+### Correlation Matrix of Shop Variables
+![Correlation Matrix of Shop Variables](./Documentation/Correlation Matrix of Shop Variables.png)
