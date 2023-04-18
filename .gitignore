@@ -43,3 +43,4 @@ data/
 
 01_Data_Collection/*.json
 01_Data_Collection/publicextract.charity.json
+.DS_Store
