@@ -42,4 +42,4 @@ data/
 04_Model/templates/
 
 01_Data_Collection/*.json
-
+01_Data_Collection/publicextract.charity.json
