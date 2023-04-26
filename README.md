@@ -4,7 +4,31 @@ This project aims to analyse and visualise the trends and distribution of fashio
 
 ## Live Demo
 
-You can test and view the ranking at the following link: [London Charity Vintage Shops](https://london-charity-vintage-shops.herokuapp.com/)
+You can test and view the ranking at the following link: [London Charity Vintage Shops](https://andriids.github.io/londons_fashionable_finds/)
+
+I initially developed this project as a dynamic Flask app and successfully hosted on Heroku. However, due to hosting costs, I decided to switch to a static GitHub Pages site. The working code for the dynamic Heroku website can be found in the `Documentation/previous_dynamic_website` folder.
+
+### Data Variables
+
+The table below displays the variables used to evaluate the charity and vintage shops on our static website that went into the model.
+
+| Variable                       | Data Source                                                                                               |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------|
+| Shop Name                      | Web scraping, Google Maps API                                                                             |
+| Address                        | Google Maps API, OpenStreetMap                                                                            |
+| Latitude                       | Google Maps API                                                                                           |
+| Longitude                      | Google Maps API                                                                                           |
+| Rating                         | Google Maps API                                                                                           |
+| Reviews Count                  | Google Maps API                                                                                           |
+| Place ID                       | Google Maps API                                                                                           |
+| Price Level                    | Google Maps API                                                                                           |
+| Borough                        | Web scraping, OpenStreetMap                                                                               |
+| Property Value (2017)          | Web scraping, UK House Price Index                                                                        |
+| Earnings (2021)                | Web scraping, Office for National Statistics                                                              |
+| IMD Rank                       | Web scraping, Ministry of Housing, Communities & Local Government                                         |
+| Income Rank                    | Web scraping, Ministry of Housing, Communities & Local Government                                         |
+
+
 
 
 ## Project Structure
