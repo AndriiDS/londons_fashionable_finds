@@ -1,4 +1,4 @@
-fetch("https://raw.githubusercontent.com/AndriiDS/londons_fashionable_finds/main/static/ranked_shops.json")
+fetch("./static/ranked_shops.json")
   .then((response) => response.json())
   .then((data) => {
     const tableBody = document.querySelector("table tbody");
