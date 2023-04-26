@@ -1,6 +1,6 @@
 # London's Vintage and Charity Shops
 
-This project aims to analyse and visualise the trends and distribution of fashionable clothing stores in London. By leveraging open data sources and machine learning techniques, this project seeks to provide valuable insights for both customers and retailers in the industry.
+This project aims to analyse and visualise the trends and distribution of vintage and charity stores in London. By leveraging open data sources and machine learning techniques, this project seeks to provide insights for both customers and retailers.
 
 ## Live Demo
 
