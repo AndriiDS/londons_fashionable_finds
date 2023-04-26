@@ -1,15 +1,14 @@
-fetch("https://andriids.github.io/londons_fashionable_finds/static/ranked_shops.json")
+fetch("https://raw.githubusercontent.com/AndriiDS/londons_fashionable_finds/main/static/ranked_shops.json")
   .then((response) => response.json())
   .then((data) => {
-    let tableBody = document.querySelector("tbody");
+    const tableBody = document.querySelector("table tbody");
+
     data.forEach((shop, index) => {
-      let row = document.createElement("tr");
-      row.innerHTML = `
-        <td>${index + 1}</td>
-        <td>${shop.name}</td>
-        <td>${shop.address}</td>
-        <td>${shop.composite_score.toFixed(2)}</td>
-      `;
-      tableBody.appendChild(row);
+      const row = tableBody.insertRow();
+
+      row.insertCell().innerText = index + 1;
+      row.insertCell().innerText = shop.Shop_Name;
+      row.insertCell().innerText = shop.Address;
+      row.insertCell().innerText = parseFloat(shop.composite_score).toFixed(2);
     });
   });
