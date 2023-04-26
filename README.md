@@ -39,8 +39,8 @@ The project is organised into the following directories and files:
 - `04_Model`: Scripts for training and evaluating machine learning models on the processed data
 - `Documentation`: Contains project documentation files, including explanations, additional resources
 - `previous_dynamic_website`: Contains the files for the earlier dynamic version of the project, including 
-   - `previous_dynamic_website/app.py` the main script for running the web application and 
-   - `previous_dynamic_website/templates` HTML templates for the web application
+   - `app.py` the main script for running the web application and 
+   - `templates` HTML templates for the web application
 
 
 ## Setup
