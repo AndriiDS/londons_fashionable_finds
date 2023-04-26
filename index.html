@@ -35,14 +35,8 @@
                     </tr>
                 </thead>
                 <tbody>
-                    {% for shop in shops %}
                         <tr>
-                            <td>{{ loop.index }}</td>
-                            <td>{{ shop.Shop_Name }}</td>
-                            <td>{{ shop.Address }}</td>
-                            <td>{{ shop.composite_score | round(2) }}</td>
                         </tr>
-                    {% endfor %}
                 </tbody>
             </table>
         </form>
