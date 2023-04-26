@@ -1,6 +1,6 @@
 # London's Vintage and Charity Shops
 
-This project aims to analyse and visualise the trends and distribution of fashionable clothing stores in London. By leveraging open data sources and machine learning techniques, this project seeks to provide valuable insights for both customers and retailers in the fashion industry.
+This project aims to analyse and visualise the trends and distribution of fashionable clothing stores in London. By leveraging open data sources and machine learning techniques, this project seeks to provide valuable insights for both customers and retailers in the industry.
 
 ## Live Demo
 
@@ -29,24 +29,18 @@ The table below displays the variables used to evaluate the charity and vintage 
 | Income Rank                    | Web scraping, Ministry of Housing, Communities & Local Government                                         |
 
 
-
-
 ## Project Structure
 
-The project is organized into the following directories and files:
+The project is organised into the following directories and files:
 
 - `01_Data_Collection`: Contains scripts and data files for collecting data from various sources, such as charity registers and geographic information.
-- `02_Data_Preprocessing`: Scripts for cleaning and preprocessing the collected data to make it suitable for analysis and modeling.
+- `02_Data_Preprocessing`: Scripts for cleaning and preprocessing the collected data to make it suitable for analysis and modelling.
 - `03_EDA`: Scripts and notebooks for exploratory data analysis (EDA) and feature engineering.
-- `04_Model`: Contains the code for the initial dynamic Flask app hosted on Heroku, as well as scripts for training and evaluating machine learning models on the processed data. The folder now serves as a reference for the dynamic version of the project.
-- `static`: Contains the static files, such as JavaScript, for the static GitHub Pages site.
-- `data`: Contains data files like the JSON file with the ranked shops for the static site.
-- `index.html`: The main HTML file for the static GitHub Pages site.
-- `main.js`: JavaScript file to load and display the data on the static site.
-- `README.md`: The README file providing an overview of the project, its structure, and how to use it.
-
-Note: The `app.py`, `templates`, and `requirements.txt` files are no longer in use, as they were part of the initial dynamic Flask app. These files can be found in the `04_Model` folder as a reference for the dynamic version of the project.
-
+- `04_Model`: Scripts for training and evaluating machine learning models on the processed data.
+- `Documentation`: Contains project documentation files, including explanations, additional resources, and the `previous_dynamic_website` folder for the earlier dynamic version of the project.
+- `app.py`: The main script for running the web application (for the dynamic version).
+- `templates`: Contains HTML templates for the web application (for the dynamic version).
+- `requirements.txt`: A list of required Python packages for this project.
 
 ## Setup
 
@@ -77,6 +71,9 @@ Please ensure that your code follows the project's style guidelines and includes
 ## Visualisations
 
 The project includes various visualisations to help understand the data and trends:
+
+### Clusters
+![Clusters](./Documentation/Scatter%20Plot%20Colored%20by%20Clusters.png)
 
 ### Distribution of Shops by Boroughs
 ![Distribution of Shops by Boroughs](./Documentation/Distribution%20of%20Shops%20by%20Boroughs.png)
