@@ -32,8 +32,11 @@ brief.md
 # Data files
 data/
 *.csv
-*.json
 *.zip
+
+# Ignore JSON files in data and 01_Data_Collection folders
+data/*.json
+01_Data_Collection/*.json
 
 # Model files
 04_Model/Procfile
@@ -41,6 +44,4 @@ data/
 04_Model/app.py
 04_Model/templates/
 
-01_Data_Collection/*.json
-01_Data_Collection/publicextract.charity.json
 .DS_Store
