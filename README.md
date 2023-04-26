@@ -6,41 +6,42 @@ This project aims to analyse and visualise the trends and distribution of fashio
 
 You can test and view the ranking at the following link: [London Charity Vintage Shops](https://andriids.github.io/londons_fashionable_finds/)
 
-I initially developed this project as a dynamic Flask app and successfully hosted on Heroku. However, due to hosting costs, I decided to switch to a static GitHub Pages site. The working code for the dynamic Heroku website can be found in the `Documentation/previous_dynamic_website` folder.
+I initially developed this project as a dynamic Flask app and successfully hosted on Heroku. However, due to hosting costs, I decided to switch to a static GitHub Pages site. The working code for the dynamic Heroku website can be found in the `previous_dynamic_website` folder in the main project directory.
 
 ### Data Variables
 
 The table below displays the variables used to evaluate the charity and vintage shops on our static website that went into the model.
 
-| Variable                       | Data Source                                                                                               |
-|--------------------------------|-----------------------------------------------------------------------------------------------------------|
-| Shop Name                      | Web scraping, Google Maps API                                                                             |
-| Address                        | Google Maps API, OpenStreetMap                                                                            |
-| Latitude                       | Google Maps API                                                                                           |
-| Longitude                      | Google Maps API                                                                                           |
-| Rating                         | Google Maps API                                                                                           |
-| Reviews Count                  | Google Maps API                                                                                           |
-| Place ID                       | Google Maps API                                                                                           |
-| Price Level                    | Google Maps API                                                                                           |
-| Borough                        | Web scraping, OpenStreetMap                                                                               |
-| Property Value (2017)          | Web scraping, UK House Price Index                                                                        |
-| Earnings (2021)                | Web scraping, Office for National Statistics                                                              |
-| IMD Rank                       | Web scraping, Ministry of Housing, Communities & Local Government                                         |
-| Income Rank                    | Web scraping, Ministry of Housing, Communities & Local Government                                         |
-
+| Variable                       | Data Source                                                                                               | Description |
+|--------------------------------|-----------------------------------------------------------------------------------------------------------|-------------|
+| Shop Name                      | Web scraping, Google Maps API                                                                             | The name of the shop |
+| Address                        | Google Maps API, OpenStreetMap                                                                            | The shop's address |
+| Latitude                       | Google Maps API                                                                                           | Latitude coordinate of the shop |
+| Longitude                      | Google Maps API                                                                                           | Longitude coordinate of the shop |
+| Rating                         | Google Maps API                                                                                           | Average user rating of the shop |
+| Reviews Count                  | Google Maps API                                                                                           | Number of user reviews |
+| Place ID                       | Google Maps API                                                                                           | Google Maps Place ID |
+| Price Level                    | Google Maps API                                                                                           | Relative price level of the shop |
+| Borough                        | Web scraping, OpenStreetMap                                                                               | London borough the shop is located in |
+| Property Value (2017)          | Web scraping, UK House Price Index                                                                        | Average property value in the borough (2017) |
+| Earnings (2021)                | Web scraping, Office for National Statistics                                                              | Average earnings in the borough (2021) |
+| IMD Rank                       | Web scraping, Ministry of Housing, Communities & Local Government                                         | Index of Multiple Deprivation rank for the borough |
+| Income Rank                    | Web scraping, Ministry of Housing, Communities & Local Government                                         | Income rank for the borough |
+| Composite Score                | Machine learning model output                                                                             | A composite score based on various features to rank the shops |
 
 ## Project Structure
 
 The project is organised into the following directories and files:
 
-- `01_Data_Collection`: Contains scripts and data files for collecting data from various sources, such as charity registers and geographic information.
-- `02_Data_Preprocessing`: Scripts for cleaning and preprocessing the collected data to make it suitable for analysis and modelling.
-- `03_EDA`: Scripts and notebooks for exploratory data analysis (EDA) and feature engineering.
-- `04_Model`: Scripts for training and evaluating machine learning models on the processed data.
-- `Documentation`: Contains project documentation files, including explanations, additional resources, and the `previous_dynamic_website` folder for the earlier dynamic version of the project.
-- `app.py`: The main script for running the web application (for the dynamic version).
-- `templates`: Contains HTML templates for the web application (for the dynamic version).
-- `requirements.txt`: A list of required Python packages for this project.
+- `01_Data_Collection`: Contains scripts and data files for collecting data from various sources, such as charity registers and geographic information
+- `02_Data_Preprocessing`: Scripts for cleaning and preprocessing the collected data to make it suitable for analysis and modelling
+- `03_EDA`: Scripts and notebooks for exploratory data analysis (EDA) and feature engineering
+- `04_Model`: Scripts for training and evaluating machine learning models on the processed data
+- `Documentation`: Contains project documentation files, including explanations, additional resources, and the `previous_dynamic_website` folder for the earlier dynamic version of the project
+- `previous_dynamic_website`: Contains the files for the earlier dynamic version of the project, including 
+- `previous_dynamic_website/app.py` the main script for running the web application and 
+- `previous_dynamic_website/templates` HTML templates for the web application
+
 
 ## Setup
 
