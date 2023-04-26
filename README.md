@@ -37,10 +37,10 @@ The project is organised into the following directories and files:
 - `02_Data_Preprocessing`: Scripts for cleaning and preprocessing the collected data to make it suitable for analysis and modelling
 - `03_EDA`: Scripts and notebooks for exploratory data analysis (EDA) and feature engineering
 - `04_Model`: Scripts for training and evaluating machine learning models on the processed data
-- `Documentation`: Contains project documentation files, including explanations, additional resources, and the `previous_dynamic_website` folder for the earlier dynamic version of the project
+- `Documentation`: Contains project documentation files, including explanations, additional resources
 - `previous_dynamic_website`: Contains the files for the earlier dynamic version of the project, including 
-- `previous_dynamic_website/app.py` the main script for running the web application and 
-- `previous_dynamic_website/templates` HTML templates for the web application
+   - `previous_dynamic_website/app.py` the main script for running the web application and 
+   - `previous_dynamic_website/templates` HTML templates for the web application
 
 
 ## Setup
