@@ -1,4 +1,4 @@
-fetch("static/ranked_shops.json")
+fetch("https://andriids.github.io/londons_fashionable_finds/static/ranked_shops.json")
   .then((response) => response.json())
   .then((data) => {
     let tableBody = document.querySelector("tbody");
