@@ -8,6 +8,35 @@ You can test and view the ranking at the following link: [London Charity Vintage
 
 I initially developed this project as a dynamic Flask app and successfully hosted on Heroku. However, due to hosting costs, I decided to switch to a static GitHub Pages site. The working code for the dynamic Heroku website can be found in the `previous_dynamic_website` folder in the main project directory.
 
+## Model Validation
+
+To validate the model's ranking of charity and vintage shops in London, I cross-referenced the results with various online articles from reputable sources such as Vogue, Secret London, London x London, Elle, Conde Nast Traveller, Time Out, Harper's Bazaar, and Visit London. I counted the number of times each shop was mentioned across these sources and then compared the ranking with the shops that had the highest mentions.
+
+The table below shows a selection of top shops from the articles, their type (charity or vintage), the count of mentions across the sources, and their respective ranking in our model:
+
+| Shop                                              | Type        | Count of Mentions | Model Ranking |
+|---------------------------------------------------|-------------|-------------------|--------------|
+| Oxfam Boutique (Marylebone)                      | Charity     | 4                 | 5            |
+| Beyond Retro (Brick Lane)                         | Vintage     | 4                 | 6            |
+| The East End Thrift Store (Mile End)             | Charity     | 4                 | Not Ranked   |
+| FARA (Angel)                                      | Charity     | 3                 | 7            |
+| Octavia Foundation (Brompton Road)               | Charity     | 3                 | Not Ranked   |
+| Traid (various locations)                         | Charity     | 3                 | 4            |
+| Rokit (Brick Lane, Covent Garden)                 | Vintage     | 3                 | 1            |
+| Atika (Brick Lane)                                | Vintage     | 3                 | 2            |
+| British Red Cross (Chelsea, Victoria)             | Charity     | 2                 | Not Ranked   |
+| Cancer Research UK (Marylebone)                   | Charity     | 2                 | Not Ranked   |
+| Oxfam Boutique (Westbourne Grove)                | Charity     | 2                 | Not Ranked   |
+| Shelter (various locations)                       | Charity     | 2                 | 3            |
+| The Salvation Army (Pratt Street)                 | Charity     | 2                 | Not Ranked   |
+| William Vintage (Marylebone)                      | Vintage     | 2                 | Not Ranked   |
+| Blitz (Brick Lane)                                | Vintage     | 2                 | Not Ranked   |
+| Found And Vision (Notting Hill)                   | Vintage     | 2                 | Not Ranked   |
+| Pop Boutique (Covent Garden)                      | Vintage     | 2                 | Not Ranked   |
+
+Please note that not all the shops mentioned in the articles are ranked in the list. The table above shows the rankings of the shops that are included in the ranking.
+
+
 ### Data Variables
 
 The table below displays the variables used to evaluate the charity and vintage shops on our static website that went into the model.
