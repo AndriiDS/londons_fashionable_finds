@@ -2,7 +2,8 @@
 
 This project aims to analyse and visualise the trends and distribution of vintage and charity stores in London. By leveraging open data sources and machine learning techniques, this project seeks to provide insights for both customers and retailers.
 
-[View London's Top 20 Rated Shops by Borough](./map.html)
+[View London's Top 20 Rated Shops by Borough](https://andriids.github.io/londons_fashionable_finds/map.html)
+
 
 ## Live Demo
 
