@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.css" />
   <title>Top 20 Rated Shops by Borough</title>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
   <style>
     #mapid {
       height: 100vh;
@@ -15,6 +16,29 @@
 </head>
 <body>
   <div id="mapid"></div>
-  <script src="map.js"></script>
+  <script>
+    $(document).ready(function () {
+      var map = L.map("mapid").setView([51.5074, -0.1278], 10);
+
+      L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution:
+          '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+      }).addTo(map);
+
+      $.getJSON("./static/top_20_shops_by_borough.json", function (data) {
+        data.forEach(function (shop) {
+          var marker = L.marker([shop.Latitude, shop.Longitude]).addTo(map);
+          marker.bindPopup(
+            "<b>" +
+              shop.Shop_Name +
+              "</b><br>Rating: " +
+              shop.Rating +
+              "<br>Address: " +
+              shop.Address
+          );
+        });
+      });
+    });
+  </script>
 </body>
 </html>
